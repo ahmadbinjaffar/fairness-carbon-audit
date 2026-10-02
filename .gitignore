@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# CodeCarbon local logs
+codecarbon/
+logs/
+
+# Data (never committed)
+data/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
